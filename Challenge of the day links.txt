@@ -1,0 +1,41 @@
+1.The challenge of today: do the try hack me exercises that are circled RED: https://github.com/becodeorg/GNT-Burns-1/tree/main/00-network/00-Network_basics_(Pretraining).
+2.Here's the You is you challenge! https://github.com/becodeorg/GNT-Burns-1/blob/main/extra-challenges/00-You-is-you.md.
+3.Start with step 2 tody: https://github.com/becodeorg/GNT-Burns-1/tree/main/00-network/00-Network_basics_(Pretraining).
+4.Create a network! https://github.com/becodeorg/GNT-Burns-1/blob/main/00-network/00-Network_basics_(Pretraining)/projects/Build_simple_network.md.
+5.Network topologies: https://github.com/becodeorg/GNT-Burns-1/blob/main/00-network/01-Projects/Project_2.md.
+
+
+LINUX
+6.First parts of Linux: https://github.com/becodeorg/GNT-Burns-1/tree/main/01-linux/01-Terminal_basics.
+7.Finding files in the Linux terminal: https://github.com/becodeorg/GNT-Burns-1/tree/main/01-linux/02-Finding_files.
+8. Text manipulations: https://github.com/becodeorg/GNT-Burns-1/tree/main/01-linux/03-Text_manipulation
+[11:17 AM]
+@Burns 1  Piping and redirection: https://github.com/becodeorg/GNT-Burns-1/tree/main/01-linux/04-Piping_and_redirection.
+9.The bash enviornment: https://github.com/becodeorg/GNT-Burns-1/tree/main/01-linux/05-Bash_environnement
+[10:30 AM]
+@Burns 1  And process mgmt in Linux: https://github.com/becodeorg/GNT-Burns-1/tree/main/01-linux/06-Process.
+10.https://github.com/becodeorg/GNT-Burns-1/blob/main/02-windows/01-Windows/install_and_deploy/Install.md
+11.https://github.com/becodeorg/GNT-Burns-1/tree/main/02-windows/02-powershell_cli.
+12.https://github.com/becodeorg/GNT-Burns-1/tree/main/02-windows/03-Active_Directory.
+13.You can run Windoew Server 2022 Standard, either with GUI or the Core variant only running powershell.
+14.https://github.com/becodeorg/GNT-Burns-1/blob/main/extra-challenges/01-linux-overview.md
+Username for everyone: root
+
+password: becode4all!
+
+15.https://github.com/becodeorg/GNT-Burns-1/blob/main/extra-challenges/02-powershell-overview.md
+
+PHISHING
+16.https://github.com/becodeorg/GNT-Burns-1/tree/main/03-phishing/1.phishing_analysis.
+17.https://github.com/becodeorg/GNT-Burns-1/tree/main/03-phishing/2.making_phishing.
+18.https://github.com/becodeorg/GNT-Burns-1/tree/main/04-Programming/01-scripting
+19.Databases, SQL: https://github.com/becodeorg/GNT-Burns-1/tree/main/04-Programming/02-Database/01-SQL
+20.https://github.com/becodeorg/GNT-Burns-1/tree/main/04-Programming/02-Database/01-SQL@Burns 1  NoSQL: https://github.com/becodeorg/GNT-Burns-1/tree/main/04-Programming/02-Database/02-NoSql
+21.C/C++ - https://github.com/becodeorg/GNT-Burns-1/tree/main/04-Programming/03-Compiling/01-C%26C%2B%2B
+22.C# https://github.com/becodeorg/GNT-Burns-1/tree/main/04-Programming/03-Compiling/02-C%23
+23.Java - https://github.com/becodeorg/GNT-Burns-1/tree/main/04-Programming/03-Compiling/03-Java
+24.Secure development - https://github.com/becodeorg/GNT-Burns-1/tree/main/04-Programming/04-Secure-Dev
+25.1st day of pentesting! Framework and Information gathering - https://github.com/becodeorg/GNT-Burns-1/tree/main/05-Pentest.
+26.Web app sec - https://github.com/becodeorg/GNT-Burns-1/blob/main/05-Pentest/02-Web_application_attack/readme.md.
+27.https://learn.microsoft.com/en-us/certifications/exams/sc-900/
+
